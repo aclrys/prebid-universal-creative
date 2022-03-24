@@ -9,7 +9,7 @@ Prebid Universal Creative is a javascript api to render multiple formats. This f
 
 ## Install
 
-    $ git clone https://github.com/prebid/prebid-universal-creative.git
+    $ git clone https://github.com/aclrys/prebid-universal-creative.git
     $ cd prebid-universal-creative
     $ npm install
 
@@ -70,7 +70,7 @@ We like to test a lot before releasing newer versions.
 Found a bug? Great!
 This project is in its infancy, and many things can be improved.
 
-Report bugs, request features, and suggest improvements [on Github](https://github.com/prebid/prebid-universal-creative/issues).
+Report bugs, request features, and suggest improvements [on Github](https://github.com/aclrys/prebid-universal-creative/issues).
 
-Or better yet, [open a pull request](https://github.com/prebid/prebid-universal-creative/compare) with the changes you'd like to see.
+Or better yet, [open a pull request](https://github.com/aclrys/prebid-universal-creative/compare) with the changes you'd like to see.
 

@@ -3,7 +3,7 @@
 
 ## Release Process
 
-_Note: If `github.com/prebid/prebid-universal-creative` is not configured as the git origin for your repo, all of the following git commands will have to be modified to reference the proper remote (e.g. `upstream`)_
+_Note: If `github.com/aclrys/prebid-universal-creative` is not configured as the git origin for your repo, all of the following git commands will have to be modified to reference the proper remote (e.g. `upstream`)_
 
 1. Make Sure all browserstack tests are passing. On PR merge to master CircleCI will run unit tests on browserstack. Checking the last CircleCI build [here](https://circleci.com/gh/prebid/prebid-universal-creative) for master branch will show you detailed results. 
   
@@ -44,7 +44,7 @@ _Note: If `github.com/prebid/prebid-universal-creative` is not configured as the
 
 4. Create a GitHub release
 
-   Edit the most recent [release notes](https://github.com/prebid/prebid-universal-creative/releases) draft and make sure the correct tag is in the dropdown. Click `Publish`. GitHub will create release tag. 
+   Edit the most recent [release notes](https://github.com/aclrys/prebid-universal-creative/releases) draft and make sure the correct tag is in the dropdown. Click `Publish`. GitHub will create release tag. 
    
    Pull these changes locally by running command 
    ```
@@ -75,7 +75,7 @@ _Note: If `github.com/prebid/prebid-universal-creative` is not configured as the
    
 7. Create new release draft
 
-   Go to [github releases](https://github.com/prebid/prebid-universal-creative/releases) and add a new draft for the next version of Prebid Universal Creative with the following template:
+   Go to [github releases](https://github.com/aclrys/prebid-universal-creative/releases) and add a new draft for the next version of Prebid Universal Creative with the following template:
 ```
 ## 🚀New Features
  

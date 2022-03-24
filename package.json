@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/prebid/prebid-universal-creative.git"
+    "url": "git+https://github.com/aclrys/prebid-universal-creative.git"
   },
   "keywords": [
     "Prebid.js"
@@ -20,9 +20,9 @@
   "author": "Prebid.org Contributors",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/prebid/prebid-universal-creative/issues"
+    "url": "https://github.com/aclrys/prebid-universal-creative/issues"
   },
-  "homepage": "https://github.com/prebid/prebid-universal-creative#readme",
+  "homepage": "https://github.com/aclrys/prebid-universal-creative#readme",
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.2",

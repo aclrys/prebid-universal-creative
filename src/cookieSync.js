@@ -1,6 +1,6 @@
 /**
  * This script runs the Prebid Server cookie syncs.
- * For more details, see https://github.com/prebid/prebid-server/blob/master/docs/developers/cookie-syncs.md
+ * For more details, see https://github.com/aclrys/prebid-server/blob/master/docs/developers/cookie-syncs.md
  *
  * This script uses the following query params in the URL:
  *
